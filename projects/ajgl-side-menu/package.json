@@ -1,12 +1,13 @@
 {
   "name": "ajgl-side-menu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/Alejgl04/ajgl-workspace"
   },
   "keywords": [
     "Alejandro",
+    "Angular Pro",
     "ajgl",
     "do-not-use"
   ],
