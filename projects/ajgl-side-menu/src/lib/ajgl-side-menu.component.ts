@@ -19,6 +19,9 @@ export class AjglSideMenuComponent {
 
   isAuthenticated = input(false);
 
+  title = input('AJGL');
+  subTitle = input('Corp');
+
   titleColor = input<TitleColor>( TitleColor.purple );
 
   onSignOut = output();

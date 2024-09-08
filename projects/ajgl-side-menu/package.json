@@ -10,6 +10,7 @@
     "ajgl",
     "do-not-use"
   ],
+  "license":"MIT",
   "author": "Alejandro Guerrero",
   "bugs": {
     "url": "https://github.com/Alejgl04/ajgl-workspace/issues"
